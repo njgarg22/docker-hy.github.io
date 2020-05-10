@@ -6,7 +6,7 @@ permalink: /part1/
 order: 1
 ---
 
-This part introduces containerization with Docker and relevant concepts such as *image* and *volume*. By the end of this part you are able to:
+This part introduces neeraj containerization with Docker and relevant concepts such as *image* and *volume*. By the end of this part you are able to:
 
 * Run containerized applications
 
