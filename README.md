@@ -2,4 +2,4 @@
 
 Thank you for your help. If you have any questions send email jami.kousa@helsinki.fi or send message in course telegram group.
 
-Fork of the project.
+Fork of the docker project.
